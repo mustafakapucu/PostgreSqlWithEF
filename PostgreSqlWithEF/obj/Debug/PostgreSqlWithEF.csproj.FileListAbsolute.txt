@@ -1,0 +1,24 @@
+c:\users\mustafa.kapucu\documents\visual studio 2015\Projects\PostgreSqlWithEF\PostgreSqlWithEF\bin\Debug\PostgreSqlWithEF.exe.config
+c:\users\mustafa.kapucu\documents\visual studio 2015\Projects\PostgreSqlWithEF\PostgreSqlWithEF\bin\Debug\PostgreSqlWithEF.exe
+c:\users\mustafa.kapucu\documents\visual studio 2015\Projects\PostgreSqlWithEF\PostgreSqlWithEF\bin\Debug\PostgreSqlWithEF.pdb
+c:\users\mustafa.kapucu\documents\visual studio 2015\Projects\PostgreSqlWithEF\PostgreSqlWithEF\bin\Debug\EntityFramework.dll
+c:\users\mustafa.kapucu\documents\visual studio 2015\Projects\PostgreSqlWithEF\PostgreSqlWithEF\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\mustafa.kapucu\documents\visual studio 2015\Projects\PostgreSqlWithEF\PostgreSqlWithEF\bin\Debug\Mono.Security.dll
+c:\users\mustafa.kapucu\documents\visual studio 2015\Projects\PostgreSqlWithEF\PostgreSqlWithEF\bin\Debug\Npgsql.dll
+c:\users\mustafa.kapucu\documents\visual studio 2015\Projects\PostgreSqlWithEF\PostgreSqlWithEF\bin\Debug\Npgsql.EntityFramework.dll
+c:\users\mustafa.kapucu\documents\visual studio 2015\Projects\PostgreSqlWithEF\PostgreSqlWithEF\bin\Debug\EntityFramework.xml
+c:\users\mustafa.kapucu\documents\visual studio 2015\Projects\PostgreSqlWithEF\PostgreSqlWithEF\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\mustafa.kapucu\documents\visual studio 2015\Projects\PostgreSqlWithEF\PostgreSqlWithEF\bin\Debug\Npgsql.xml
+c:\users\mustafa.kapucu\documents\visual studio 2015\Projects\PostgreSqlWithEF\PostgreSqlWithEF\bin\Debug\Npgsql.EntityFramework.xml
+c:\users\mustafa.kapucu\documents\visual studio 2015\Projects\PostgreSqlWithEF\PostgreSqlWithEF\bin\Debug\de\Npgsql.resources.dll
+c:\users\mustafa.kapucu\documents\visual studio 2015\Projects\PostgreSqlWithEF\PostgreSqlWithEF\bin\Debug\es\Npgsql.resources.dll
+c:\users\mustafa.kapucu\documents\visual studio 2015\Projects\PostgreSqlWithEF\PostgreSqlWithEF\bin\Debug\fi\Npgsql.resources.dll
+c:\users\mustafa.kapucu\documents\visual studio 2015\Projects\PostgreSqlWithEF\PostgreSqlWithEF\bin\Debug\fr\Npgsql.resources.dll
+c:\users\mustafa.kapucu\documents\visual studio 2015\Projects\PostgreSqlWithEF\PostgreSqlWithEF\bin\Debug\ja\Npgsql.resources.dll
+c:\users\mustafa.kapucu\documents\visual studio 2015\Projects\PostgreSqlWithEF\PostgreSqlWithEF\bin\Debug\zh-CN\Npgsql.resources.dll
+c:\users\mustafa.kapucu\documents\visual studio 2015\Projects\PostgreSqlWithEF\PostgreSqlWithEF\obj\Debug\PostgreSqlWithEF.csprojResolveAssemblyReference.cache
+c:\users\mustafa.kapucu\documents\visual studio 2015\Projects\PostgreSqlWithEF\PostgreSqlWithEF\obj\Debug\PostgreSqlWithEF.exe
+c:\users\mustafa.kapucu\documents\visual studio 2015\Projects\PostgreSqlWithEF\PostgreSqlWithEF\obj\Debug\PostgreSqlWithEF.pdb
+C:\Users\mustafa.kapucu\Desktop\Container\Örnek Çalışmalar\GitHub\PostgreSqlWithEF\PostgreSqlWithEF\bin\Debug\PostgreSqlWithEF.exe.config
+C:\Users\mustafa.kapucu\Desktop\Container\Örnek Çalışmalar\GitHub\PostgreSqlWithEF\PostgreSqlWithEF\obj\Debug\PostgreSqlWithEF.exe
+C:\Users\mustafa.kapucu\Desktop\Container\Örnek Çalışmalar\GitHub\PostgreSqlWithEF\PostgreSqlWithEF\obj\Debug\PostgreSqlWithEF.pdb
